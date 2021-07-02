@@ -181,7 +181,7 @@
   background-size: 867px 637px;
   background-position: left bottom;
   position: relative;
-  min-height: 867px;
+  min-height: 890px;
 }
 
 .feynman__title {
@@ -330,7 +330,7 @@
   margin-bottom: 16px;
 }
 
-.footer__column_table {
+.footer__column-list {
   margin: 0;
   padding: 0;
   list-style-type: none;
