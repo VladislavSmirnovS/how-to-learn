@@ -13,6 +13,7 @@
 @import url(../blocks/two-columns/__main-text/two-colums__main-text.css);
 @import url(../blocks/two-columns/__paragraph/two-columns__paragraph.css);
 @import url(../blocks/two-columns/__span-accent/two-columns__span-accent.css);
+@import url(../blocks/two-columns/_margintop_plus/two-columns_margintop_plus.css);
 @import url(../blocks/section-title/section-title.css);
 @import url(../blocks/section-subtitle/section-subtitle.css);
 @import url(../blocks/section-title/_theme_dark/section-title_theme_dark.css);
