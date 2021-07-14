@@ -4,3 +4,7 @@
   width: 80%;
   justify-content: space-between;
 }
+
+.oakley .two-columns:nth-of-type(1) {
+  margin-top: 160px;
+}
